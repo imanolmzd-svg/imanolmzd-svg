@@ -13,7 +13,7 @@ Engineer & builder.
 
 **Interests**
 - Distributed systems
-- Backend, frontend, infra
+- Backend - Frontend - Infra
 - AI-powered products
 
 📫 Contact: imanol.mzd@gmail.com
