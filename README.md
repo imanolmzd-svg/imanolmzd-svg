@@ -1,9 +1,4 @@
-# Hey there👋
-
-This is Imanol. Welcome to my GitHub!
-
-Senior Software Engineer · AI · Distributed systems  
-Always building 🛠️
+# Imanol Maiztegui
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -13,9 +8,12 @@ Always building 🛠️
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-Interested in:
-- ⚙️ TypeScript - Java - Anything
-- 🧠 RAG, LLMs, infra
-- 🚀 B2B - B2C - Robotics
+
+Engineer & builder.
+
+**Interests**
+- Distributed systems
+- Developer experience
+- AI-powered products
 
 📫 Contact: imanol.mzd@gmail.com
